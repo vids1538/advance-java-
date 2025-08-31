@@ -4,7 +4,7 @@ public class ArithmaticOnTwoNumber {
         System.out.println("enter first number :");
         Scanner sc=new Scanner(System.in);
         int first=sc.nextInt();
-        System.out.println("enter second number :");
+        System.out.print("enter second number :");
         int second =sc.nextInt();
         int addition=first+second;
         int subtraction=first-second;
